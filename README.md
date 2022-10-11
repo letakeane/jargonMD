@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# jargonMD
+
+This is an app that helps translate medical jargon into simpler language, intended to aid users in understanding their health. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
